@@ -1,4 +1,6 @@
 
+[![Build Status](https://s4dm.visualstudio.com/LearnSpaceGame/_apis/build/status/Herbert-dev.mslearn-tailspin-spacegame-web?branchName=master)](https://s4dm.visualstudio.com/LearnSpaceGame/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
