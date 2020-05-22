@@ -1,6 +1,8 @@
 
 [![Build Status](https://s4dm.visualstudio.com/LearnSpaceGame/_apis/build/status/Herbert-dev.mslearn-tailspin-spacegame-web?branchName=master)](https://s4dm.visualstudio.com/LearnSpaceGame/_build/latest?definitionId=1&branchName=master)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Herbert-dev_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=Herbert-dev_mslearn-tailspin-spacegame-web)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
